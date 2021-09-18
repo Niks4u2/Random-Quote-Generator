@@ -1,0 +1,208 @@
+{
+  "quotes": [  {  "id": "1",
+    "content": "There is nothing happens to any person but what was in his power to go through with.",
+    "author": "Marcus Aurelius",
+    "tags": ["famous-quotes"],
+    "authorId": "zW_A5fM6XU-v",
+    "authorSlug": "marcus-aurelius",
+    "length": 84
+  },
+  {
+    "id": "2",
+    "content": "The smallest act of kindness is worth more than the grandest intention.",
+    "author": "Oscar Wilde",
+    "tags": ["famous-quotes"],
+    "authorId": "yw5O7wULaKfx",
+    "authorSlug": "oscar-wilde",
+    "length": 71
+  },
+  {
+    "id": "3",
+    "content": "Every problem has a gift for you in its hands.",
+    "author": "Richard Bach",
+    "tags": ["famous-quotes"],
+    "authorId": "t9lNqDH0TmYo",
+    "authorSlug": "richard-bach",
+    "length": 46
+  },
+  {
+    "id": "4",
+    "content": "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+    "author": "René Descartes",
+    "tags": ["famous-quotes"],
+    "authorId": "7oQmRTe0VZhD",
+    "authorSlug": "rene-descartes",
+    "length": 88
+  },
+  {
+    "id": "5",
+    "content": "The world makes way for the man who knows where he is going.",
+    "author": "Ralph Waldo Emerson",
+    "tags": ["famous-quotes"],
+    "authorId": "xEVEeQ7m4KQT",
+    "authorSlug": "ralph-waldo-emerson",
+    "length": 60
+  },
+  {
+    "id": "6",
+    "content": "You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?",
+    "author": "W. Clement Stone",
+    "tags": ["wisdom"],
+    "authorId": "esj6cyXo7w3_",
+    "authorSlug": "w-clement-stone",
+    "length": 246
+  },
+  {
+    "id": "7",
+    "content": "The cautious seldom err.",
+    "author": "Confucius",
+    "tags": ["famous-quotes"],
+    "authorId": "ropvZKOXYhLr",
+    "authorSlug": "confucius",
+    "length": 24
+  },
+  {
+    "id": "8",
+    "content": "The most complicated achievements of thought are possible without the assistance of consciousness.",
+    "author": "Sigmund Freud",
+    "tags": ["famous-quotes"],
+    "authorId": "S2-JbY3NzItd",
+    "authorSlug": "sigmund-freud",
+    "length": 98
+  },
+  {
+    "id": "9",
+    "content": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+    "author": "John F. Kennedy",
+    "tags": ["famous-quotes"],
+    "authorId": "hVmL2YCoGCRZ",
+    "authorSlug": "john-f-kennedy",
+    "length": 123
+  },
+  {
+    "id": "10",
+    "content": "The greatest way to live with honor in this world is to be what we pretend to be.",
+    "author": "Socrates",
+    "tags": ["famous-quotes"],
+    "authorId": "C9DlPOiO6CUk",
+    "authorSlug": "socrates",
+    "length": 81
+  },
+  {
+    "id": "11",
+    "content": "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
+    "author": "Richard Bach",
+    "tags": ["famous-quotes"],
+    "authorId": "t9lNqDH0TmYo",
+    "authorSlug": "richard-bach",
+    "length": 132
+  },
+  {
+    "id": "12",
+    "content": "Wisdom begins at the end.",
+    "author": "Daniel Webster",
+    "tags": ["wisdom"],
+    "authorId": "6MQyJsAQJ0",
+    "authorSlug": "daniel-webster",
+    "length": 25
+  },
+  {
+    "id": "13",
+    "content": "Ignorant men don't know what good they hold in their hands until they've flung it away.",
+    "author": "Sophocles",
+    "tags": ["famous-quotes"],
+    "authorId": "bBwlN7LI2Jtu",
+    "authorSlug": "sophocles",
+    "length": 87
+  },
+  {
+    "id": "14",
+    "content": "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
+    "author": "Buddha",
+    "tags": ["famous-quotes"],
+    "authorId": "sUNjshHENA05",
+    "authorSlug": "buddha",
+    "length": 116
+  },
+  {
+    "id": "15",
+    "content": "Science gives us knowledge, but only philosophy can give us wisdom.",
+    "author": "Will Durant",
+    "tags": ["wisdom"],
+    "authorId": "ePSTACfg6LJF",
+    "authorSlug": "will-durant",
+    "length": 67
+  },
+  {
+    "id": "16",
+    "content": "A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.",
+    "author": "Fawn M. Brodie",
+    "tags": ["friendship", "politics"],
+    "authorId": "Miy-SXplY_",
+    "authorSlug": "fawn-m-brodie",
+    "length": 138
+  },
+  {
+    "id": "17",
+    "content": "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
+    "author": "Thomas à Kempis",
+    "tags": ["famous-quotes"],
+    "authorId": "dlhcmYIGySaN",
+    "authorSlug": "thomas-a-kempis",
+    "length": 114
+  },
+  {
+    "id": "18",
+    "content": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "tags": ["famous-quotes"],
+    "authorId": "1X7NWb1oyd21",
+    "authorSlug": "eleanor-roosevelt",
+    "length": 55
+  },
+  {
+    "id": "19",
+    "content": "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+    "author": "Margaret Cousins",
+    "tags": ["famous-quotes"],
+    "authorId": "kGus0J4NngTj",
+    "authorSlug": "margaret-cousins",
+    "length": 112
+  },
+  {
+    "id": "20",
+    "content": "Much wisdom often goes with fewest words.",
+    "author": "Sophocles",
+    "tags": ["wisdom"],
+    "authorId": "bBwlN7LI2Jtu",
+    "authorSlug": "sophocles",
+    "length": 41
+  },
+  {
+    "id": "21",
+    "content": "Joy is the best makeup.",
+    "author": "Anne Lamott",
+    "tags": ["famous-quotes"],
+    "authorId": "U9sym_5RKQun",
+    "authorSlug": "anne-lamott",
+    "length": 23
+  },
+  {
+    "id": "22",
+    "content": "There never was a good knife made of bad steel.",
+    "author": "Benjamin Franklin",
+    "tags": ["famous-quotes"],
+    "authorId": "xkvcrqREjoOB",
+    "authorSlug": "benjamin-franklin",
+    "length": 47
+  },
+  {
+    "id": "23",
+    "content": "I love my past. I love my present. Im not ashamed of what Ive had, and Im not sad because I have it no longer.",
+    "author": "Colette",
+    "tags": ["famous-quotes"],
+    "authorId": "Yu8OzWEaUynL",
+    "authorSlug": "colette",
+    "length": 110
+  }]
+}
